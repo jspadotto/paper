@@ -1,8 +1,9 @@
 # Title
-Aging of biomass aerosols over West Africa
+Simulations of biomass aerosols over West Africa
 
 # Author
 Julio Spadotto
+Vermi White
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa. 
