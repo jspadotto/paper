@@ -1,5 +1,5 @@
 # Title
-Aging of biomass aerosols over West Africa
+Aircraft measuremnts of biomass aerosols over West Africa
 
 # Author
 Julio Spadotto
