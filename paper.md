@@ -2,8 +2,8 @@
 Aircraft measuremnts of biomass burning aerosols over West Africa
 =======
 # Author
-Julio Spadotto, University of Manchester
-Vermi White, UniZap
+Vermi White
+Julio Spadotto
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa. 
