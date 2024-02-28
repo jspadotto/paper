@@ -1,8 +1,12 @@
 # Title
-Aircraft measuremnts of biomass aerosols over West Africa
+Aircraft measuremnts of biomass burning aerosols over West Africa
+=======
+Simulations of biomass aerosols over West Africa
+>>>>>>> simulations
 
 # Author
 Julio Spadotto
+Vermi White
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa. 
